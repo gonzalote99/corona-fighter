@@ -1,0 +1,20 @@
+body {
+  overflow: hidden;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#mycanvas {
+  background-image: url('https://raw.githubusercontent.com/God-father1/Javascript-projects/master/Corona%20Fighter%20Game/Assets/bg.jpg');
+  border: 2px solid black;
+}
